@@ -47,11 +47,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api
 
+<p>
 
+
+    
+</p>
 
 <h1 align="center">Hi 👋, I'm Kimya Fayaz</h1>
 <h3 align="center">A passionate Cybersecurity student from Afghanistan, just starting my journey in the field of information security. I am also enrolled in the MIT Emerging Talent, where I am learning more about programming and technology to enhance my skills and broaden my knowledge base. My focus is on building a strong foundation in cybersecurity concepts while learning Python, which I use for projects and scripts to develop my skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.example.com/images/dinosaur.jpg" />
+<img align="right" alt="Coding" width="400" src="[https://www.example.com/images/dinosaur.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FJiyaGupta-cs&psig=AOvVaw2N-NTaKF3rFNHMHZj824jk&ust=1734386430418000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj19_yJ46qKAxWUN1kFHZxcMaEQjRx6BAgAEBg)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimya-fayaz&label=Profile%20views&color=0e75b6&style=flat" alt="kimya-fayaz" /> </p>
 
