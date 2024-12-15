@@ -41,7 +41,7 @@
 
 <h3 align="left">Resume:</h3>
 
-- [Download My Resume](https://drive.google.com/drive/u/0/folders/1w5yVZin8XqqQWfd6PZWrAszXF0kJ0udq)
+- [Download My Resume](https://drive.google.com/file/d/1xTy5jWpJgSQwe9VkK1Mw91_dknevrIjz/view?usp=drive_link)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrullah-safdari&show_icons=true&locale=en&layout=compact" alt="nasrullah-safdari" /></p>
 
