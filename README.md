@@ -27,7 +27,7 @@
     </a> 
 </p>
 
-- 💬 Ask me about **Python, R, Java, Power BI, SQL, HTML**  
+- 💬 Ask me about **Python, R, Java, Power BI, SQL**  
 - 📫 Reach me at **nasrullahsafdari7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
