@@ -83,8 +83,3 @@ I enjoy working with real-world data, exploring patterns, building analytical mo
 
 </p>
 
-<h3 align="left">📄 Resume:</h3>
-
-<a href="https://drive.google.com/file/d/1xTy5jWpJgSQwe9VkK1Mw91_dknevrIjz/view?usp=drive_link">
-    View My Resume
-</a>
